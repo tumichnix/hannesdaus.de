@@ -1,0 +1,12 @@
+body {
+	background-color: #111;
+  	font-family: "Rambla", sans-serif;
+  	color: #fff;
+  	font-weight: 500;
+  	line-height: 1.6;
+  	font-smoothing: antialiased;
+}
+
+.highlight {
+	color: #ff4f00;
+}

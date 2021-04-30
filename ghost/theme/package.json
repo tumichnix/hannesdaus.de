@@ -1,0 +1,26 @@
+{
+    "name": "hannes-daus-de",
+    "description": "A custom theme for hannesdaus.de",
+    "version": "0.1.0",
+    "engines": {
+        "ghost": ">=4.0.0",
+        "ghost-api": "v4"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Hannes Daus",
+        "email": "hello@hannesdaus.de",
+        "url": "https://hannesdaus.de"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tumichnix/hannesdaus.de.git"
+    },
+    "bugs": "https://github.com/tumichnix/hannesdaus.de/issues",
+    "browserslist": [
+        "defaults"
+    ],
+    "config": {
+        "posts_per_page": 15
+    }
+}
